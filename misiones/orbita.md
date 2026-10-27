@@ -11,9 +11,12 @@
 6. Pide una revisión a Aurora; responde y corrige al menos un comentario.
 
 ## Plan de aterrizaje
-- Paso 1: pendiente.
-- Paso 2: pendiente.
-- Paso 3: pendiente.
+- Paso 1: Programar las coordenadas de reentrada atmosférica y el ángulo
+ de descenso.
+- Paso 2: Desplegar los escudos térmicos y activar los sistemas de estabilización
+ de la nave.
+- Paso 3: Liberar el tren de aterrizaje principal y confirmar el contacto seguro
+ con la superficie.
 
 ## Pregunta para el otro equipo
 ¿Qué podría salir mal durante el aterrizaje?
