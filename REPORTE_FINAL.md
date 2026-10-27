@@ -28,6 +28,7 @@
 
 ### 2. Creación de ramas, commits y Pull Requests
 Cada equipo creamos nuestra respectiva rama de características a partir de `develop` mediante la terminal. Tras realizar las modificaciones correspondientes en los archivos `misiones/aurora.md`, `misiones/orbita.md` y `panel/estado.md`, guardamos los cambios mediante `git commit` y los publicamos en GitHub con `git push`. Luego abrimos los Pull Requests hacia `develop`, llenando en la descripción la plantilla proporcionada para explicar con detalle los cambios realizados en cada pull.
+
 ---
 
 ### 3. Revisión de código y resolución de conflictos
