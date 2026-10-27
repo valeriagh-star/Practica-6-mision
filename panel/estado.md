@@ -2,7 +2,8 @@
 
 **Nombre de la misión:** Rescate del repositorio
 
-**ESTADO DE LA MISIÓN: ATERRIZAJE LISTO POR ORBITA**
+ESTADO DE LA MISIÓN: LANZAMIENTO LISTO POR AURORA Y ATERRIZAJE LISTO POR ORBITA
+origin/develop
 
 **Mensaje a la tripulación:** Esperando instrucciones.
 

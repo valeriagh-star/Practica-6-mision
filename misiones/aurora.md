@@ -11,9 +11,9 @@
 6. Pide una revisión a Órbita; responde y corrige al menos un comentario.
 
 ## Plan de lanzamiento
-- Paso 1: pendiente.
-- Paso 2: pendiente.
-- Paso 3: pendiente.
+- Paso 1: Verificar la integridad de los sistemas de propulsión y niveles de combustible principal.
+- Paso 2: Realizar la prueba de comunicación con la estación terrena y confirmar la ventana de despegue.
+- Paso 3: Ejecutar la secuencia de ignición y liberación de la torre de control.
 
 ## Pregunta para el otro equipo
 ¿Qué podría salir mal durante el lanzamiento?
