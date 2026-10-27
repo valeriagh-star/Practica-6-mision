@@ -2,7 +2,7 @@
 
 **Nombre de la misión:** Rescate del repositorio
 
-**ESTADO DE LA MISIÓN: PENDIENTE**
+**ESTADO DE LA MISIÓN: ATERRIZAJE LISTO POR ORBITA**
 
 **Mensaje a la tripulación:** Esperando instrucciones.
 
