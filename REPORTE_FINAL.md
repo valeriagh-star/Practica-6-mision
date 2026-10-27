@@ -8,9 +8,11 @@
 > * Pérez Megchun Pablo de Jesús
 
 > ### Integrantes del Equipo Órbita:
+> * Barajas Lascari Gael Alonso
+> * Ledesma Rodríguez Alexa
+> * Madigal Ronces Baruc Santiago
+> * Ramírez Espejel Arely
 > * Torres Trejo Abraham
-> * 
-> * 
 
 > ### Breve descripción de la práctica:
 > <p align="justify">
@@ -23,7 +25,7 @@
 - **`main`**: Contiene la versión estable, limpia y lista para producción de todo el proyecto.
 - **`develop`**: Sirvió como el entorno principal de integración continua donde ambos equipos unimos nuestros avances antes de la publicación final.
 - **`feature/*`**: Ramas independientes (`feature/aurora-lanzamiento` y `feature/orbita-aterrizaje`) utilizadas por cada equipo para avanzar sin interferir con el trabajo del otro.
-- 
+ 
 ---
 
 ### 2. Creación de ramas, commits y Pull Requests
