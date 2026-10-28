@@ -16,7 +16,7 @@
 
 > ### Breve descripción de la práctica:
 > <p align="justify">
-> En esta práctica aplicamos un flujo de trabajo colaborativo basado en *Git Flow* y la gestión de *Pull Requests* para coordinar el desarrollo entre los equipos *Aurora* y *Órbita*. A lo largo de la actividad gestionamos la bifurcación de ramas independientes (`feature/*`) para el desarrollo de misiones específicas, practicamos la integración continua sobre la rama `develop`, resolvimos de manera manual y directa conflictos de fusión en la terminal causados por modificaciones paralelas, y realizamos revisiones cruzadas de código antes de consolidar la publicación final y estable del repositorio en la rama principal (`main`).
+> En esta práctica aplicamos un flujo de trabajo colaborativo basado en **Git Flow** y la gestión de **Pull Requests** para coordinar el desarrollo entre los equipos **Aurora** y **Órbita**. A lo largo de la actividad gestionamos la bifurcación de ramas independientes (`feature/*`) para el desarrollo de misiones específicas, practicamos la integración continua sobre la rama `develop`, resolvimos de manera manual y directa conflictos de fusión en la terminal causados por modificaciones paralelas, y realizamos revisiones cruzadas de código antes de consolidar la publicación final y estable del repositorio en la rama principal (`main`).
 > </p>
 
 ---
